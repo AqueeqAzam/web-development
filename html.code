@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Web Development</title>
+</head>
+<body>
+    This is your coding area 
+    <h1>this is heading</h1>
+    <br> This is line breaking tag</br>
+    <p> This is paregraph tag
+        so if you write your code any where
+        in the text editor it will
+        arrange paragraph series by default. </p>
+</body>
+</html>
